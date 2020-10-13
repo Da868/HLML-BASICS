@@ -1,29 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 { 
+body {
+    background-color:powerblue;
+}
 
+h1 { 
     color: green;
     font-family: verdana;
-    font-size: 200%;
-    }
+    font-size: 24px;
+}
 
 P {
-
    color: red;
    font-family: ariel;
-   font-size: 150%;
+   font-size: 14px;
+}
 
-  }
 
-</style>
-</head>
-<body>
-
-<h1> Tech Project 4a </h1>
-<p> Please Input Your First Name, Last Name, and Email Address </p>
-
-</body>
-</html>
 
